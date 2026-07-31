@@ -1,3 +1,3 @@
 function installApp() {
-  alert("Noxura Dynamics App processing!");
+  alert("JVortex Dynamics App is installing!");
 }
